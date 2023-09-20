@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+/* CARD DIREITO DA TELA */
+
+.midcard {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    border-radius: 20px;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    background: linear-gradient(#00aeff, #98cbe2);
+}
+
+img {
+    width: 100px;
+  margin: auto;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.linkedin {
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: bold;
+
+}
+
+.Frase {
+    color: rgb(255, 255, 255);
+    margin: auto;
+  margin-top: 0px;
+  padding: 40px;
+    font-family: sans-serif;
+    font-size: bold;
+    text-align: justify;
+    font-weight: bold;
+}
+
+.button1 {
+    display: flex;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 1rem;
+    color: #000000;
+    text-transform: uppercase;
+    align-items: center;
+    margin: auto;
+    width: 20rem;
+
+   
+
+}
+
+/* CARD ESQUERDO DA TELA */
+
+
+.leftcard {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    border-radius: 20px;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    background: linear-gradient(#000000, #1a1a1a,#1b1b1b,#3d3d3d);
+}
+
+img {
+    width: 100px;
+  margin: auto;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.github {
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: bold;
+
+}
+
+.frase2 {
+    color: rgb(255, 255, 255);
+    margin: auto;
+  margin-top: 0px;
+  padding: 40px;
+    font-family: sans-serif;
+    font-size: bold;
+    text-align: justify;
+    font-weight: bold;
+}
+
+
+.button2 {
+    display: flex;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 1rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    align-items: center;
+    margin: auto;
+    width: 20rem;
+background-color: #1a1a1a;
+   
+
+}
+  
+
+
